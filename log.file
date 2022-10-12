@@ -1,0 +1,157 @@
+[D 21:55:58.705 NotebookApp] Searching ['C:\\Users\\XRIntern\\Desktop\\Personal Projects\\MyPortfolio', 'C:\\Users\\XRIntern\\.jupyter', 'C:\\Users\\XRIntern\\AppData\\Roaming\\Python\\etc\\jupyter', 'C:\\Users\\XRIntern\\miniconda3\\etc\\jupyter', 'C:\\ProgramData\\jupyter'] for config files
+[D 21:55:58.706 NotebookApp] Looking for jupyter_config in C:\ProgramData\jupyter
+[D 21:55:58.706 NotebookApp] Looking for jupyter_config in C:\Users\XRIntern\miniconda3\etc\jupyter
+[D 21:55:58.706 NotebookApp] Looking for jupyter_config in C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter
+[D 21:55:58.706 NotebookApp] Looking for jupyter_config in C:\Users\XRIntern\.jupyter
+[D 21:55:58.707 NotebookApp] Looking for jupyter_config in C:\Users\XRIntern\Desktop\Personal Projects\MyPortfolio
+[D 21:55:58.707 NotebookApp] Looking for jupyter_notebook_config in C:\ProgramData\jupyter
+[D 21:55:58.707 NotebookApp] Looking for jupyter_notebook_config in C:\Users\XRIntern\miniconda3\etc\jupyter
+[D 21:55:58.707 NotebookApp] Looking for jupyter_notebook_config in C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter
+[D 21:55:58.707 NotebookApp] Looking for jupyter_notebook_config in C:\Users\XRIntern\.jupyter
+[D 21:55:58.707 NotebookApp] Looking for jupyter_notebook_config in C:\Users\XRIntern\Desktop\Personal Projects\MyPortfolio
+[D 21:55:58.708 NotebookApp] Ignoring min_open_files_limit because the limit cannot be adjusted (for example, on Windows)
+[D 21:55:58.710 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	C:\ProgramData\jupyter\jupyter_notebook_config.json
+[D 21:55:58.711 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\jupyter_notebook_config.json
+[D 21:55:58.711 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\jupyter_notebook_config.json
+[D 21:55:58.711 NotebookApp] Paths used for configuration of jupyter_notebook_config: 
+    	C:\Users\XRIntern\.jupyter\jupyter_notebook_config.json
+[I 21:55:58.975 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:55:58.976 NotebookApp] The port 8889 is already in use, trying another port.
+[I 21:55:58.977 NotebookApp] Serving notebooks from local directory: C:\Users\XRIntern\Desktop\Personal Projects\MyPortfolio
+[I 21:55:58.977 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 21:55:58.977 NotebookApp] http://localhost:8890/?token=7d04cf69df1ca20ab58c39bd2dbb296cf8dd12ff633f383a
+[I 21:55:58.977 NotebookApp]  or http://127.0.0.1:8890/?token=7d04cf69df1ca20ab58c39bd2dbb296cf8dd12ff633f383a
+[I 21:55:58.977 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:55:59.001 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/XRIntern/AppData/Roaming/jupyter/runtime/nbserver-12052-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=7d04cf69df1ca20ab58c39bd2dbb296cf8dd12ff633f383a
+     or http://127.0.0.1:8890/?token=7d04cf69df1ca20ab58c39bd2dbb296cf8dd12ff633f383a
+[D 21:56:00.349 NotebookApp] Accepting token-authenticated connection from ::1
+[D 21:56:00.350 NotebookApp] Using contents: services/contents
+[D 21:56:00.378 NotebookApp] Path base/images/favicon.ico served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\base\images\favicon.ico
+[D 21:56:00.379 NotebookApp] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\jquery-ui\themes\smoothness\jquery-ui.min.css
+[D 21:56:00.379 NotebookApp] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\jquery-typeahead\dist\jquery.typeahead.min.css
+[D 21:56:00.381 NotebookApp] Path style/style.min.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\style\style.min.css
+[D 21:56:00.381 NotebookApp] Path components/es6-promise/promise.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\es6-promise\promise.min.js
+[D 21:56:00.382 NotebookApp] Path components/react/react.production.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\react\react.production.min.js
+[D 21:56:00.382 NotebookApp] Path components/react/react-dom.production.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\react\react-dom.production.min.js
+[D 21:56:00.383 NotebookApp] Path components/create-react-class/index.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\create-react-class\index.js
+[D 21:56:00.383 NotebookApp] Path components/requirejs/require.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\requirejs\require.js
+[D 21:56:00.384 NotebookApp] Path base/images/logo.png served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\base\images\logo.png
+[D 21:56:00.384 NotebookApp] Path tree/js/main.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\tree\js\main.min.js
+[D 21:56:00.387 NotebookApp] 200 GET /tree?token=7d04cf69df1ca20ab58c39bd2dbb296cf8dd12ff633f383a (::1) 39.020000ms
+[D 21:56:00.399 NotebookApp] Path custom.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\custom\custom.css
+[D 21:56:00.400 NotebookApp] 304 GET /custom/custom.css (::1) 1.000000ms
+[D 21:56:00.449 NotebookApp] Path services\contents.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\services\contents.js
+[D 21:56:00.449 NotebookApp] 200 GET /static/services/contents.js?v=20220423215558 (::1) 0.000000ms
+[D 21:56:00.465 NotebookApp] Paths used for configuration of tree: 
+    	C:\ProgramData\jupyter\nbconfig\tree.json
+[D 21:56:00.465 NotebookApp] Paths used for configuration of tree: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\tree.json
+[D 21:56:00.466 NotebookApp] Paths used for configuration of tree: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\tree.json
+[D 21:56:00.466 NotebookApp] Paths used for configuration of tree: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\tree.json
+[D 21:56:00.466 NotebookApp] 200 GET /api/config/tree?_=1650747360436 (::1) 2.000000ms
+[D 21:56:00.467 NotebookApp] Paths used for configuration of common: 
+    	C:\ProgramData\jupyter\nbconfig\common.json
+[D 21:56:00.468 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\common.json
+[D 21:56:00.468 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\common.json
+[D 21:56:00.468 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\common.json
+[D 21:56:00.468 NotebookApp] 200 GET /api/config/common?_=1650747360437 (::1) 1.000000ms
+[D 21:56:00.470 NotebookApp] 200 GET /api/terminals?_=1650747360438 (::1) 1.000000ms
+[D 21:56:00.470 NotebookApp] Found kernel python3 in C:\Users\XRIntern\miniconda3\share\jupyter\kernels
+[D 21:56:00.613 NotebookApp] 304 GET /api/kernelspecs (::1) 144.230000ms
+[D 21:56:00.615 NotebookApp] 200 GET /api/sessions?_=1650747360439 (::1) 1.000000ms
+[D 21:56:00.616 NotebookApp] 200 GET /api/terminals?_=1650747360440 (::1) 2.000000ms
+[D 21:56:00.616 NotebookApp] Path custom.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\custom\custom.js
+[D 21:56:00.617 NotebookApp] 200 GET /custom/custom.js?v=20220423215558 (::1) 1.000000ms
+[D 21:56:00.622 NotebookApp] 200 GET /api/contents?type=directory&_=1650747360441 (::1) 3.000000ms
+[D 21:56:26.633 NotebookApp] Using contents: services/contents
+[D 21:56:26.641 NotebookApp] Path base/images/favicon-file.ico served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\base\images\favicon-file.ico
+[D 21:56:26.642 NotebookApp] Path components/codemirror/lib/codemirror.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\codemirror\lib\codemirror.css
+[D 21:56:26.642 NotebookApp] Path components/codemirror/addon/dialog/dialog.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\codemirror\addon\dialog\dialog.css
+[D 21:56:26.643 NotebookApp] Path edit/js/main.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\edit\js\main.min.js
+[D 21:56:26.645 NotebookApp] 200 GET /edit/log.file (::1) 12.180000ms
+[D 21:56:26.652 NotebookApp] Path components\codemirror\addon\dialog\dialog.css served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\components\codemirror\addon\dialog\dialog.css
+[D 21:56:26.653 NotebookApp] 200 GET /static/components/codemirror/addon/dialog/dialog.css?v=e7f5db4afaccf8a00c10d62c3693642323d3fcf17604a4797803df04e4f144a944dc646c2fda20548df538ada775570127b2a15403996a171ced1769697f3ee4 (::1) 1.000000ms
+[D 21:56:26.654 NotebookApp] 304 GET /custom/custom.css (::1) 1.000000ms
+[D 21:56:26.662 NotebookApp] Path edit\js\main.min.js served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\edit\js\main.min.js
+[D 21:56:26.664 NotebookApp] 200 GET /static/edit/js/main.min.js?v=a35d61441265fcbf5fd6968ce5160da728dc914835ec5959edaa517a0c6462311a6e52762deacdc9b2c272c0ae6bcce17151508983a1227560ac1c33ecf940a5 (::1) 2.000000ms
+[D 21:56:26.705 NotebookApp] Path base\images\favicon-file.ico served from C:\Users\XRIntern\miniconda3\lib\site-packages\notebook\static\base\images\favicon-file.ico
+[D 21:56:26.706 NotebookApp] 200 GET /static/base/images/favicon-file.ico?v=f9f0a782d7d67b3a57bf7dce251d771b405c7890604576ec8b9a621a39d7670f6b43ffabef1e566f1cd741ee302e15977d9e1cf60bbacebafe75787b9916415c (::1) 1.000000ms
+[D 21:56:26.726 NotebookApp] Paths used for configuration of edit: 
+    	C:\ProgramData\jupyter\nbconfig\edit.json
+[D 21:56:26.726 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\edit.json
+[D 21:56:26.727 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\edit.json
+[D 21:56:26.727 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\edit.json
+[D 21:56:26.727 NotebookApp] 200 GET /api/config/edit?_=1650747386698 (::1) 2.000000ms
+[D 21:56:26.728 NotebookApp] Paths used for configuration of common: 
+    	C:\ProgramData\jupyter\nbconfig\common.json
+[D 21:56:26.728 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\common.json
+[D 21:56:26.729 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\common.json
+[D 21:56:26.729 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\common.json
+[D 21:56:26.729 NotebookApp] 200 GET /api/config/common?_=1650747386699 (::1) 2.000000ms
+[D 21:56:26.742 NotebookApp] 200 GET /api/contents/log.file?type=file&format=text&_=1650747386700 (::1) 4.610000ms
+[D 21:56:26.766 NotebookApp] 304 GET /custom/custom.js?v=20220423215558 (::1) 0.000000ms
+[D 21:56:45.385 NotebookApp] Using contents: services/contents
+[D 21:56:45.385 NotebookApp] 304 GET /edit/log.file (::1) 1.000000ms
+[D 21:56:45.392 NotebookApp] 304 GET /custom/custom.css (::1) 0.000000ms
+[D 21:56:45.430 NotebookApp] Paths used for configuration of edit: 
+    	C:\ProgramData\jupyter\nbconfig\edit.json
+[D 21:56:45.431 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\edit.json
+[D 21:56:45.431 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\edit.json
+[D 21:56:45.431 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\edit.json
+[D 21:56:45.432 NotebookApp] 200 GET /api/config/edit?_=1650747405404 (::1) 2.000000ms
+[D 21:56:45.432 NotebookApp] Paths used for configuration of common: 
+    	C:\ProgramData\jupyter\nbconfig\common.json
+[D 21:56:45.433 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\common.json
+[D 21:56:45.433 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\common.json
+[D 21:56:45.433 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\common.json
+[D 21:56:45.433 NotebookApp] 200 GET /api/config/common?_=1650747405405 (::1) 1.000000ms
+[D 21:56:45.444 NotebookApp] 200 GET /api/contents/log.file?type=file&format=text&_=1650747405406 (::1) 6.000000ms
+[D 21:56:45.447 NotebookApp] 304 GET /custom/custom.js?v=20220423215558 (::1) 1.000000ms
+[D 21:57:13.312 NotebookApp] Using contents: services/contents
+[D 21:57:13.313 NotebookApp] 304 GET /edit/log.file (::1) 1.000000ms
+[D 21:57:13.321 NotebookApp] 304 GET /custom/custom.css (::1) 1.000000ms
+[D 21:57:13.358 NotebookApp] Paths used for configuration of edit: 
+    	C:\ProgramData\jupyter\nbconfig\edit.json
+[D 21:57:13.358 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\edit.json
+[D 21:57:13.359 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\edit.json
+[D 21:57:13.359 NotebookApp] Paths used for configuration of edit: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\edit.json
+[D 21:57:13.359 NotebookApp] 200 GET /api/config/edit?_=1650747433335 (::1) 2.000000ms
+[D 21:57:13.360 NotebookApp] Paths used for configuration of common: 
+    	C:\ProgramData\jupyter\nbconfig\common.json
+[D 21:57:13.360 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\miniconda3\etc\jupyter\nbconfig\common.json
+[D 21:57:13.361 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\AppData\Roaming\Python\etc\jupyter\nbconfig\common.json
+[D 21:57:13.361 NotebookApp] Paths used for configuration of common: 
+    	C:\Users\XRIntern\.jupyter\nbconfig\common.json
+[D 21:57:13.361 NotebookApp] 200 GET /api/config/common?_=1650747433336 (::1) 2.010000ms
+[D 21:57:13.370 NotebookApp] 200 GET /api/contents/log.file?type=file&format=text&_=1650747433337 (::1) 5.000000ms
+[D 21:57:13.375 NotebookApp] 304 GET /custom/custom.js?v=20220423215558 (::1) 1.000000ms

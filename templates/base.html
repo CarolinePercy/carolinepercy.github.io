@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <script src="https://kit.fontawesome.com/62636147a6.js" crossorigin="anonymous"></script>
+    </head>
+
+    <style>
+
+    @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+
+
+    h1 {
+      font-weight:bolder;
+    }
+
+    .clickableImage:hover {
+      filter: invert(100%);
+    }
+    .clickableImage {
+      display: inline-block;
+      margin: 30px;
+    }
+
+    a:link {
+      text-decoration: none;
+    }
+
+    a:visited {
+       text-decoration: none;
+       color: black;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    a:active {
+      text-decoration: underline;
+    }
+
+    .toolbar {
+      font-size: 16px;
+      text-align: right;
+      word-spacing: 20px;
+      margin-right: 10px;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .leftSide
+    {
+      text-align: left;
+      padding-top: 2px;
+    }
+
+    .rightSide
+    {
+      text-align: right;
+      margin-right: 20px;
+      padding-top: 2px;
+    }
+
+    body {
+      font-size: 20px;
+      font-family: 'PT Sans Narrow', sans-serif;
+      background-color: LightCyan;
+      text-align: center;
+      padding: 0px;
+      margin: 0px;
+      overflow-x: hidden;
+    }
+
+    .block {
+      background-color: LightSkyBlue;
+      width: 100%;
+    }
+
+    .contact {
+      text-decoration: underline;
+      line-height: 0.2;
+    }
+
+    td, th {
+      width: 50vw;
+      font-size: 20px;
+      line-height: 0.2;
+      padding-bottom: 70px;
+    }
+
+    </style>
+    <body>
+
+      <p class="toolbar">
+      <a href="/">HOME</a>
+      <a href="/about">ABOUT</a>
+      <a href="/projects">PROJECTS</a>
+      <a href="/contact">CONTACT</a>
+     </p>
+
+
+        {% block body %}}
+        {% endblock %}
+        <p class="contact"><b>Contact:</b></p>
+        <table>
+          <tr>
+            <td><b>Number:</b> 085 703 3410</td>
+            <td><b>Email:</b> lineypercy@me.com</td>
+          </tr>
+        </table>
+    </body>
+</html>
